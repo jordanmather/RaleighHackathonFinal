@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">raleighproject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_avg_day">AvgDay</string>
+    <string name="title_activity_avg_week">AvgWeek</string>
+    <string name="title_activity_avg_month">AvgMonth</string>
+    <string name="title_activity_avg_year">AvgYear</string>
+    <string name="title_activity_send_email">sendEmail</string>
+</resources>
